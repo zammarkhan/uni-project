@@ -1,0 +1,46 @@
+*{
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+
+body{
+ 
+    background-image: url(laptop.jpg);
+    background-size: cover;
+}
+.Header{
+  background-color:rgba(20.4, 22.4, 21.6, 0.2);
+}
+
+.nav-items a{
+    text-decoration: none;
+    color: white;
+}
+.nav-items a:hover{
+ color: yellow;
+}
+.logo{
+
+    font-size: 25px;
+    color: white;
+}
+.title{
+    font-size: 12px;
+    
+
+}
+.Main{
+    font-size: 60px;
+}
+.p{
+    font-size: 10px;
+}
+
+.button-items:hover{
+    background-color: white;
+
+}
+.button-items a{
+  text-decoration: none;
+    color: black; 
+}
